@@ -31,6 +31,8 @@ use Illuminate\Support\Facades\Auth;
  * Class BookingRepository
  * @package DTApi\Repository
  */
+
+//Note:Only did the Refactoring in the controller file I will use the observers and service here to manage the this code.
 class BookingRepository extends BaseRepository
 {
 

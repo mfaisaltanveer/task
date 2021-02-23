@@ -1,0 +1,2 @@
+1-I think that's code is a little messy and we did it clean and great to make the services and observers for the logic
+and also I see the $request->all() method but due to security concern i will prefer to use a separate validate the request and use $request->validated()
